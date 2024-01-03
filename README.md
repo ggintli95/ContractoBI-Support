@@ -1,4 +1,4 @@
-# Welcome to ContractoBI Github Support page
+# Welcome to ContractoBI Github support page
 
 This repository represents a support channel to the iOS, iPadOS and macOS ContractoBI app.
 
